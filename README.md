@@ -1,5 +1,7 @@
 # Text Parser
 
+[![DeepSource](https://app.deepsource.com/gh/Yeah-Jack/text-parser.svg/?label=active+issues&show_trend=true&token=CzpEtDKPA3T4wuYbO0362s_f)](https://app.deepsource.com/gh/Yeah-Jack/text-parser/)
+
 This project contains a Python script that reads a text file, splits the text into sentences, formats the sentences, and writes the formatted text to a new file.
 
 ## File Structure
